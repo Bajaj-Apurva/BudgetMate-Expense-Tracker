@@ -22,5 +22,7 @@ python ExpenseTracker.py
 
 ## Usage
 Add Expenses: Input the amount and category of the expense.
+
 View Expenses: Display a list of all expenses, along with the date and category.
+
 Spending Patterns: Analyze spending by category and view total expenditure.
